@@ -11,3 +11,5 @@ How to use? - After downloading the repository, open the folder in VisualStudioC
 
 - npm install
 - npm start
+
+Scan the code using the Expo application on your phone or open in Android Studio / Xcode.
