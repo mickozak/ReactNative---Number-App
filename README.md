@@ -7,9 +7,7 @@ Used:
 - ReactNative,
 - Expo.
 
-How to use?
-
-After downloading, you can navigate into them in your command prompt/ terminal (via the "cd" command) and run:
+How to use? - After downloading the repository, open the folder in VisualStudioCode. Then enter in the console:
 
 - npm install
 - npm start
